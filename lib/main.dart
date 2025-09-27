@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:notes2/hive_notes_screen.dart';
+import 'package:notes2/screens/hive_notes_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
