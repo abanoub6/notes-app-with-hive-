@@ -76,7 +76,7 @@ class _HiveNotesScreenState extends State<HiveNotesScreen> {
           return GridView.builder(
             padding: const EdgeInsets.all(8),
             gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-              crossAxisCount: 2, // شكل Grid 2 أعمدة
+              crossAxisCount: 2,
               crossAxisSpacing: 8,
               mainAxisSpacing: 8,
             ),
